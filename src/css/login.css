@@ -1,0 +1,14 @@
+#loginDiv{
+    width: 50%;
+    /* background-color:#f6decf; */
+    background: rgb(246,222,207);
+background: linear-gradient(135deg, rgba(246,222,207,1) 0%, rgba(238,181,181,1) 32%, rgba(239,193,155,1) 45%, rgba(239,219,146,1) 54%, rgba(240,161,116,1) 82%, rgba(241,154,92,1) 100%);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10%;  
+    padding: 5%; 
+}
+
+body {
+    background: whitesmoke
+  }

@@ -1,0 +1,11 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+}
+
+.containeer {
+    width: 95%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
