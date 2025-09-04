@@ -1,6 +1,6 @@
 # Meow App React Frontend
 
-This project is related with [Create React App](https://github.com/ababic2/Meow/).
+This project is related with [meow-adpoption-backend](https://github.com/ababic2/Meow/).
 
 ## Run with npm start
 
